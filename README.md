@@ -1,7 +1,7 @@
 Paypal for Meteor
 =============
 
-Meteor Package for easy Paypal payment processing.
+Meteor Package for easy Paypal payment processing. Addition of paypal payment method in progress.
 
 ### Usage
 ```console
